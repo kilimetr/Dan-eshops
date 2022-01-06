@@ -1,0 +1,48 @@
+{
+	"product_name": ["Disney Dumbo"], 
+	"product_id": ["5_1173018"], 
+	"product_discount": [{"percentage": 0.2}], 
+	"product_price_full": [28.99], 
+	"product_price_sale": [22.99], 
+	"product_price_currency": ["EUR"], 
+	"product_labels": [{"type": "Discount", "value": "-20%"}], 
+	"product_image_link": ["https://res.cloudinary.com/merchant/f_auto,fl_progressive,q_auto,{format},{dpr}/v1/images/{variant}.jpg"], 
+	"product_image_dpr": [""], 
+	"product_image_format": ["t_product-original"], 
+	"product_image_variant_id": [{"id": "3d7930cf8cdba889fcbc93892dfc61e145286312"}, {"id": "be45371aaef1ac43b55cabbe43ca79c6bb8cba2b"}, {"id": "b55b33ab061dfc2b07bf4a552a2533fc75e0a531"}, {"id": "55dfb6782183a1872bc124288d3d80acb260b188"}, {"id": "a6ec8b9723e5227260346894f2e31deed7421b17"}], 
+	"product_variants": [
+		{
+			"discount": {"percentage": 0.2}, 
+			"id": "5_4060420", 
+			"uuid": "f0aea54a-6b93-5235-b1c9-947b035228eb", 
+			"superVarId": 4060420, 
+			"name": "74", 
+			"retailPrice": {"amount": 28.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"salesPrice": {"amount": 22.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"stock": 10, 
+			"stockAvailable": 10
+		}, 
+		{
+			"discount": {"percentage": 0.2}, 
+			"id": "5_4060421", 
+			"uuid": "786c99a3-3786-584c-8b65-c3b0896487a3", 
+			"superVarId": 4060421, 
+			"name": "80", 
+			"retailPrice": {"amount": 28.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"salesPrice": {"amount": 22.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"stock": 43, 
+			"stockAvailable": 43
+		}, 
+		{
+			"discount": {"percentage": 0.2}, 
+			"id": "5_4060422", 
+			"uuid": "fde84881-0008-56a5-9eb5-cb2600091ff3", 
+			"superVarId": 4060422, 
+			"name": "86", 
+			"retailPrice": {"amount": 28.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"salesPrice": {"amount": 22.99, "currency": "EUR", "vat": 0, "vatAmount": 0}, 
+			"stock": 78, 
+			"stockAvailable": 78
+		}
+	]
+},

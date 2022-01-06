@@ -1,0 +1,146 @@
+{
+    "brand": {
+        "id": "dirkje",
+        "name": "Dirkje"
+    },
+    "discount": {
+        "percentage": 0.05
+    },
+    "id": "5_1174234",
+    "images": {
+        "default": {
+            "url": "https://res.cloudinary.com/merchant/f_auto,fl_progressive,q_auto,{format},{dpr}/v1/images/{variant}.jpg",
+            "devicePixelRatios": {
+                "original": "",
+                "1.5": "dpr_1.5",
+                "2.0": "dpr_2.0"
+            },
+            "formats": {
+                "thumb-75": "t_product-thumb-75",
+                "medium-200": "t_product-medium-200",
+                "medium-360": "t_product-medium-360",
+                "large-720": "t_product-large-720",
+                "original": "t_product-original"
+            },
+            "variants": [
+                {
+                    "id": "7c7e3228e13a14cba2535a38269a42c910c82bb9"
+                },
+                {
+                    "id": "206e417610766fcd5315dbca303dc53f3f6fbce5"
+                },
+                {
+                    "id": "2d512c9dd908f95892001ef6ca1cdb1cb7d051b8"
+                },
+                {
+                    "id": "02d013f98e21bc644b0964d91f376176a6c2f925"
+                }
+            ]
+        }
+    },
+    "name": "Strampler",
+    "retailPrice": {
+        "amount": 16.99,
+        "currency": "EUR",
+        "vat": 0.19,
+        "vatAmount": 2.71
+    },
+    "salesPrice": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "vat": 0.19,
+        "vatAmount": 2.55
+    },
+    "minSalesPrice": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "vat": 0.19,
+        "vatAmount": 2.55
+    },
+    "maxSalesPrice": {
+        "amount": 15.99,
+        "currency": "EUR",
+        "vat": 0,
+        "vatAmount": 0
+    },
+    "totalStock": 20,
+    "totalStockAvailable": 20,
+    "variants": [
+        {
+            "discount": {
+                "percentage": 0.05
+            },
+            "id": "5_4066251",
+            "uuid": "6f69a3cf-6c17-5431-965d-fcb947e261cf",
+            "superVarId": 4066251,
+            "name": "74",
+            "retailPrice": {
+                "amount": 16.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "salesPrice": {
+                "amount": 15.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "stock": 6,
+            "stockAvailable": 6
+        },
+        {
+            "discount": {
+                "percentage": 0.05
+            },
+            "id": "5_4066252",
+            "uuid": "ce48ff50-7dc1-5805-8c72-48a721a0bd34",
+            "superVarId": 4066252,
+            "name": "80",
+            "retailPrice": {
+                "amount": 16.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "salesPrice": {
+                "amount": 15.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "stock": 9,
+            "stockAvailable": 9
+        },
+        {
+            "discount": {
+                "percentage": 0.05
+            },
+            "id": "5_4066253",
+            "uuid": "fbd96a25-0c5c-59f3-b9f9-68f263b7bd72",
+            "superVarId": 4066253,
+            "name": "86",
+            "retailPrice": {
+                "amount": 16.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "salesPrice": {
+                "amount": 15.99,
+                "currency": "EUR",
+                "vat": 0,
+                "vatAmount": 0
+            },
+            "stock": 5,
+            "stockAvailable": 5
+        }
+    ],
+    "labels": [
+        {
+            "type": "Discount",
+            "value": "-5%"
+        }
+    ],
+    "styles": []
+}
